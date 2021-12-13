@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				6,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Im_idle"
+		},
+		{
+			"offsets": [
+				6,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Im_LEFT"
+		},
+		{
+			"offsets": [
+				-4,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Im_UP"
+		},
+		{
+			"offsets": [
+				4,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Im_DOWN"
+		},
+		{
+			"offsets": [
+				3,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Im_RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SUSSY_BUSSY",
+	"position": [
+		0,
+		220
+	],
+	"healthicon": "cosmo",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		66
+	],
+	"camera_position": [
+		-120,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
