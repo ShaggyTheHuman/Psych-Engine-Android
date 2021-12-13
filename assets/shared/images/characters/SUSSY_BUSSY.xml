@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bob.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Im_DOWN0000" x="5" y="5" width="500" height="500"/>
+	<SubTexture name="Im_DOWN0001" x="515" y="5" width="500" height="500"/>
+	<SubTexture name="Im_DOWN0002" x="1025" y="5" width="500" height="500"/>
+	<SubTexture name="Im_LEFT0000" x="5" y="1065" width="500" height="500"/>
+	<SubTexture name="Im_LEFT0001" x="515" y="1065" width="500" height="500"/>
+	<SubTexture name="Im_LEFT0002" x="1025" y="1065" width="500" height="500"/>
+	<SubTexture name="Im_RIGHT0000" x="1535" y="1065" width="500" height="500"/>
+	<SubTexture name="Im_RIGHT0001" x="5" y="1575" width="500" height="500"/>
+	<SubTexture name="Im_RIGHT0002" x="515" y="1575" width="500" height="500"/>
+	<SubTexture name="Im_UP0000" x="1025" y="1575" width="500" height="500"/>
+	<SubTexture name="Im_UP0001" x="1535" y="1575" width="500" height="500"/>
+	<SubTexture name="Im_idle0000" x="1535" y="35" width="500" height="500"/>
+	<SubTexture name="Im_idle0001" x="5" y="555" width="500" height="500"/>
+	<SubTexture name="Im_idle0002" x="515" y="555" width="500" height="500"/>
+	<SubTexture name="Im_idle0003" x="1025" y="
+	555" width="500" height="500"/>
+	<SubTexture name="Im_idle0004" x="1535" y="555" width="500" height="500"/>
+</TextureAtlas>
